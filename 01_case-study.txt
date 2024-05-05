@@ -1,0 +1,6 @@
+QUESTION: 
+Reflecting on your experience, what lessons have you learned, and what actionable steps can you take to prevent similar issues in the future?
+
+
+ANSWER:
+Reflecting on my experience, this event served as both a lesson and an opportunity for growth and improvement. One of the key considerations is to always remain adaptable to changes in the software ecosystem. Developing contingency plans or fallback strategies to mitigate the impact of third-party providers ceasing support will prevent similar issues in the future, as you'll have a clear plan and layout of what you should do in case the situation occurs again.
